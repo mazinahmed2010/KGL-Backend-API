@@ -122,32 +122,65 @@ Sales Agent → Can record Sales
 Role is validated using middleware.
 
 📌 Functional Modules
+
 1️⃣ Procurement (/procurement)
+
 Managers record:
+
 Produce name
+
 Type
+
 Date & Time
+
 Tonnage
+
 Cost
+
 Dealer details
+
 Branch
+
 Contact
+
 Selling price
+
+
 2️⃣ Sales (/sales)
+
 Cash Sale
+
 POST /sales/cash
+
 Credit Sale
+
 POST /sales/credit
+
 Includes:
+
 Buyer details
+
 Amount paid / due
+
 Produce info
+
 Dates
+
 Sales agent
+
 3️⃣ Users (/users)
+
 Create User
+
 Login
+
 Role assignment (Manager / Sales Agent)
 
+
+
 👨‍💻 Author
+
 Mazin Ahmed Ibrahim
+mazin.ahmed.i.m@gmail.com
+
+
