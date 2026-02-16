@@ -148,13 +148,9 @@ Selling price
 
 2️⃣ Sales (/sales)
 
-Cash Sale
+Sale
 
 POST /sales/cash
-
-Credit Sale
-
-POST /sales/credit
 
 Includes:
 
@@ -167,6 +163,7 @@ Produce info
 Dates
 
 Sales agent
+
 
 3️⃣ Users (/users)
 
