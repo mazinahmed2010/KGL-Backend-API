@@ -135,12 +135,8 @@ Contact
 Selling price
 2️⃣ Sales (/sales)
 Cash Sale
-Copy code
-
 POST /sales/cash
 Credit Sale
-Copy code
-
 POST /sales/credit
 Includes:
 Buyer details
